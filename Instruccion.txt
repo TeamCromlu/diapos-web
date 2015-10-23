@@ -1,0 +1,13 @@
+En slider.com
+exportar , alli da 3 referencias
+
+1.- copiar los estilos y reemplazarlos en el tema- black defecto
+es largo y comprimido
+
+2.-lodo el body con el div. reveal reemplazar por el code
+
+3.- asegurar el true que dice
+
+en esa seccion esta lo del tiempo, las transiciones etc
+
+

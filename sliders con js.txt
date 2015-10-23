@@ -1,0 +1,8 @@
+PRESENTACIIONES
+
+
+http://slides.com/
+
+
+usa la libreria
+https://github.com/TeamCromlu/reveal.js
